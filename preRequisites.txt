@@ -1,0 +1,8 @@
+I did this project in pycharm with reference from a yt tutorial.
+1) Create an AWS account and use valid credientials
+2) Install AWS CLI 
+3) Create a demo user on AWS- IAM Management Console and obtain demo credientials .
+4) Login using AWS CLI.
+5) Refer to the code and create files.
+
+Happy coding :)
